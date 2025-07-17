@@ -1,6 +1,6 @@
 # Travel Themed Website
 
-A non-responsive, travel-themed website displaying tour details and booking offers. This was the first project I built to practice HTML and CSS basics.
+A non-responsive, travel-themed website displaying tour details and booking offers. This was the first project I built to practice the basics of HTML and CSS.
 
 ## Note
 
